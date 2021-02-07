@@ -38,7 +38,9 @@ const render = require("./lib/htmlRenderer");
 
 function teamGenerator (){
 
+// manager semantics
     function addManager() {
+        console.log
         inquirer.prompt([
         ]
         ])
@@ -54,6 +56,7 @@ function teamGenerator (){
             });
     }
     
+// Intern Semantics 
     function init() {
         inquirer.prompt([
             /* Pass your questions in here */
@@ -70,6 +73,7 @@ function teamGenerator (){
             });
     }
     
+
     function init() {
         inquirer.prompt([
             /* Pass your questions in here */
