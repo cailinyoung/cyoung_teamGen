@@ -23,3 +23,6 @@ Use this app to create teams with easy-to-find information about everyone on you
 
 ## Contributors
 * Contributor: [Cailin Young](https://github.com/cailinyoung)
+
+## Screenshot
+![screenshot](output/screenshot.png)
